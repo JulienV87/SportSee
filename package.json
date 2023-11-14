@@ -1,0 +1,36 @@
+{
+  "name": "p12-front-end-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienV87/SportSee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulienV87/SportSee/issues"
+  },
+  "homepage": "https://github.com/JulienV87/SportSee#readme",
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.1.0",
+    "@testing-library/user-event": "^14.5.1",
+    "node-modules": "^0.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.18.0",
+    "react-scripts": "^3.0.1",
+    "recharts": "^2.9.3",
+    "sass": "^1.69.5",
+    "web-vitals": "^3.5.0"
+  }
+}
